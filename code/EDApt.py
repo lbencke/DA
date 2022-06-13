@@ -5,6 +5,7 @@ import random
 from random import shuffle
 random.seed(1)
 
+#portuguese wordnet
 import wn
 pt = wn.Wordnet('own-pt')
 
